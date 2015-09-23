@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>35DD1CAE-56A9-4FF6-96A5-4B553A69E98F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>timeDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CC5A63591DBE0F49063D278FD88D95CE4BE32656</key>
+		<string>/Users/janema/Code/remoteRespositories/iOS%E5%80%92%E8%AE%A1%E6%97%B6/</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>timeDemo/timeDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CC5A63591DBE0F49063D278FD88D95CE4BE32656</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>/Users/janema/Code/remoteRespositories/iOS%E5%80%92%E8%AE%A1%E6%97%B6/</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CC5A63591DBE0F49063D278FD88D95CE4BE32656</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CC5A63591DBE0F49063D278FD88D95CE4BE32656</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E5%80%92%E8%AE%A1%E6%97%B6</string>
+		</dict>
+	</array>
+</dict>
+</plist>
