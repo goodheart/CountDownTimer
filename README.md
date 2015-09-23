@@ -1,2 +1,2 @@
 # CountDownTimer
-一个小型倒计时Demo
+一个获取验证码倒计时Demo
