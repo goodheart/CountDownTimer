@@ -2,7 +2,7 @@
 //  main.m
 //  timeDemo
 //
-//  Created by 马健Jane on 15/9/6.
+//  Created by goodheart on 15/9/6.
 //  Copyright (c) 2015年 HSC. All rights reserved.
 //
 
